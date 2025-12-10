@@ -22,6 +22,11 @@ Through **self-directed learning**, **hands-on lab projects**, and a **remote De
 
 ---
 
+### 🎓 Certifications  
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-%23FF9900?style=for-the-badge)](https://www.credly.com/badges/0d77453e-7949-4b71-83d7-b34a77c13580)
+
+---
+
 ## 🌍 About Me  
 
 - Originally from Ukraine, now pursuing a DevOps career in the UK  
