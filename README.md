@@ -16,10 +16,11 @@ Through **self-directed learning**, **hands-on lab projects**, and a **remote De
 
 ## 🔑 Key Projects  
 
-- [**DevOps Lab Environment**](https://github.com/andriysmyk/flask_docker_nginx_vagrant) – Local CI/CD setup with Flask, Docker, Nginx, GitHub Actions, and a Vagrant-based self-hosted runner.  
-- [**AWS Lambda Password Generator**](https://github.com/andriysmyk/lambda_password_generator) – Serverless Python function deployed with Terraform and automated via GitHub Actions.  
+- [**PulseBoard – Serverless Incident Platform**](https://github.com/andriysmyk/pulseboard) – Production-style AWS serverless system built with Terraform, secure OIDC-based CI/CD, synthetic monitoring, scheduled health checks and SNS alerting.
+- [**Kubernetes Uptime Monitor Lab**](https://github.com/andriysmyk/k8s-uptime-monitor-lab) – Kubernetes-based service with API, background worker and Redis, deployed with manifests, exposed via Nginx Ingress, including health checks and Horizontal Pod Autoscaling (HPA).
 - [**Prometheus-Grafana Alerting Lab**](https://github.com/andriysmyk/prometheus-grafana-alerting) – Monitoring stack with Prometheus, Grafana, Node Exporter, Alertmanager, and Ansible, including Slack alerts.
-- [**Kubernetes Uptime Monitor Lab**](https://github.com/andriysmyk/k8s-uptime-monitor-lab) – Kubernetes-based service with API, background worker and Redis, deployed with manifests, exposed via Nginx Ingress, including health checks and Horizontal Pod Autoscaling (HPA). 
+- [**DevOps Lab Environment**](https://github.com/andriysmyk/flask_docker_nginx_vagrant) – Local CI/CD setup with Flask, Docker, Nginx, GitHub Actions, and a Vagrant-based self-hosted runner.  
+- [**AWS Lambda Password Generator**](https://github.com/andriysmyk/lambda_password_generator) – Serverless Python function deployed with Terraform and automated via GitHub Actions.   
 
 ---
 
