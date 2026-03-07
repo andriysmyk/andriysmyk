@@ -1,22 +1,32 @@
 # Andriy (Andrew) Smyk  
 
-**DevOps Engineer | Cloud (AWS) | IaC (Terraform, Ansible) | Docker & Kubernetes | CI/CD | Monitoring**  
+**DevOps Engineer | Cloud (AWS) | IaC (Terraform, Ansible) | Docker & Kubernetes | CI/CD | Observability**
 
-Based in London, UK. Focused on building scalable, automated, and reliable infrastructure with a strong commitment to continuous learning and professional growth.  
+Based in London, UK. DevOps Engineer with hands-on experience supporting **AWS infrastructure for a SaaS analytics platform**.
 
-Through **self-directed learning**, **hands-on lab projects**, and a **remote DevOps role**, I’ve gained practical experience in:  
+Focused on building scalable and reliable cloud infrastructure using Infrastructure as Code, containerisation and CI/CD pipelines.
 
-- **Cloud**: AWS (EC2, ECS, S3, RDS, IAM, Lambda, CloudWatch)  
-- **Infrastructure as Code & Automation**: Terraform, Ansible, GitHub Actions, Jenkins  
-- **Containers & Orchestration**: Docker, Kubernetes (foundational)  
-- **Programming & Scripting**: Python, Bash, PowerShell  
-- **Monitoring & Logging**: Grafana, Prometheus, Datadog, Zabbix  
+Previously supported production infrastructure for a small SaaS analytics platform while working as a part-time DevOps engineer.
+
+Alongside my professional experience, I build **production-style DevOps projects** to deepen my expertise in cloud infrastructure, Kubernetes and observability.
+
+---
+
+## 🛠 Tech Stack
+**Cloud:** AWS (EC2, S3, RDS, VPC, IAM, Lambda, EventBridge, CloudWatch, Route53, SNS)
+**Infrastructure as Code:** Terraform, Ansible
+**Containers & Orchestration:** Docker, Kubernetes
+**CI/CD:** GitHub Actions, Jenkins
+**Monitoring & Observability:** Prometheus, Grafana, Datadog, Zabbix
+**Programming & Scripting:** Python, Bash, PowerShell
+**Operating Systems:** Linux
+**Version Control:** Git, GitHub 
 
 ---
 
 ## 🔑 Key Projects  
 
-- [**PulseBoard – Serverless Incident Platform**](https://github.com/andriysmyk/pulseboard) – Production-style AWS serverless system built with Terraform, secure OIDC-based CI/CD, synthetic monitoring, scheduled health checks and SNS alerting.
+- [**PulseBoard – Serverless Incident Platform**](https://github.com/andriysmyk/pulseboard) – Production-style AWS serverless system built with Terraform and secure OIDC-based CI/CD, featuring a public status page, continuous synthetic monitoring via EventBridge and automated SNS alerting.
 - [**Kubernetes Uptime Monitor Lab**](https://github.com/andriysmyk/k8s-uptime-monitor-lab) – Kubernetes-based service with API, background worker and Redis, deployed with manifests, exposed via Nginx Ingress, including health checks and Horizontal Pod Autoscaling (HPA).
 - [**Prometheus-Grafana Alerting Lab**](https://github.com/andriysmyk/prometheus-grafana-alerting) – Monitoring stack with Prometheus, Grafana, Node Exporter, Alertmanager, and Ansible, including Slack alerts.
 - [**DevOps Lab Environment**](https://github.com/andriysmyk/flask_docker_nginx_vagrant) – Local CI/CD setup with Flask, Docker, Nginx, GitHub Actions, and a Vagrant-based self-hosted runner.  
@@ -31,10 +41,10 @@ Through **self-directed learning**, **hands-on lab projects**, and a **remote De
 
 ## 🌍 About Me  
 
-- Originally from Ukraine, now pursuing a DevOps career in the UK  
-- Strong believer in **learning by doing** – my projects reflect real-world DevOps practices  
-- Currently improving my English towards **C1** level  
-- Interested in **cloud-native technologies**, **security in DevOps (DevSecOps)**, and **scaling production systems** as future growth areas  
+- DevOps Engineer based in London with experience supporting **AWS infrastructure for a SaaS analytics platform**  
+- Originally from Ukraine and now building a DevOps career in the UK tech ecosystem  
+- Strong believer in **learning by doing** — my projects reflect real-world DevOps practices  
+- Interested in **cloud-native technologies**, **DevSecOps**, and **scaling production systems** 
 
 ---
 
