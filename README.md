@@ -14,21 +14,21 @@ Alongside my professional experience, I build **production-style DevOps projects
 
 ## 🛠 Tech Stack
 
-**Cloud:** AWS (EC2, S3, RDS, VPC, IAM, Lambda, EventBridge, CloudWatch, Route53, SNS)
+- **Cloud:** AWS (EC2, S3, RDS, VPC, IAM, Lambda, EventBridge, CloudWatch, Route53, SNS)
 
-**Infrastructure as Code:** Terraform, Ansible
+- **Infrastructure as Code:** Terraform, Ansible
 
-**Containers & Orchestration:** Docker, Kubernetes
+- **Containers & Orchestration:** Docker, Kubernetes
 
-**CI/CD:** GitHub Actions, Jenkins
+- **CI/CD:** GitHub Actions, Jenkins
 
-**Monitoring & Observability:** Prometheus, Grafana, Datadog, Zabbix
+- **Monitoring & Observability:** Prometheus, Grafana, Datadog, Zabbix
 
-**Programming & Scripting:** Python, Bash, PowerShell
+- **Programming & Scripting:** Python, Bash, PowerShell
 
-**Operating Systems:** Linux
+- **Operating Systems:** Linux
 
-**Version Control:** Git, GitHub
+- **Version Control:** Git, GitHub
 
 ---
 
