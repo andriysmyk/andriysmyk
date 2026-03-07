@@ -6,7 +6,7 @@ Based in London, UK. DevOps Engineer with hands-on experience supporting **AWS i
 
 Focused on building scalable and reliable cloud infrastructure using Infrastructure as Code, containerisation and CI/CD pipelines.
 
-Previously supported production infrastructure for a small SaaS analytics platform while working as a part-time DevOps engineer.
+Previously supported production infrastructure while working as a part-time DevOps engineer.
 
 Alongside my professional experience, I build **production-style DevOps projects** to deepen my expertise in cloud infrastructure, Kubernetes and observability.
 
@@ -15,13 +15,20 @@ Alongside my professional experience, I build **production-style DevOps projects
 ## 🛠 Tech Stack
 
 **Cloud:** AWS (EC2, S3, RDS, VPC, IAM, Lambda, EventBridge, CloudWatch, Route53, SNS)
+
 **Infrastructure as Code:** Terraform, Ansible
+
 **Containers & Orchestration:** Docker, Kubernetes
+
 **CI/CD:** GitHub Actions, Jenkins
+
 **Monitoring & Observability:** Prometheus, Grafana, Datadog, Zabbix
+
 **Programming & Scripting:** Python, Bash, PowerShell
+
 **Operating Systems:** Linux
-**Version Control:** Git, GitHub 
+
+**Version Control:** Git, GitHub
 
 ---
 
