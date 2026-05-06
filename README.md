@@ -1,5 +1,11 @@
 # Andriy (Andrew) Smyk  
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+
 **DevOps Engineer | Cloud (AWS) | IaC (Terraform, Ansible) | Docker & Kubernetes | CI/CD | Observability**
 
 Based in London, UK. DevOps Engineer with hands-on experience supporting **AWS infrastructure for a SaaS analytics platform**.
@@ -42,10 +48,11 @@ Alongside my professional experience, I build **production-style DevOps projects
 
 ## 🌍 About Me  
 
-- DevOps Engineer based in London with experience supporting **AWS infrastructure for a SaaS analytics platform**  
-- Originally from Ukraine and now building a DevOps career in the UK tech ecosystem  
-- Strong believer in **learning by doing** — my projects reflect real-world DevOps practices  
-- Interested in **cloud-native technologies**, **DevSecOps**, and **scaling production systems** 
+- DevOps Engineer based in London with hands-on experience supporting **AWS infrastructure for a SaaS analytics platform**  
+- Originally from Ukraine and now building a DevOps career in the UK tech ecosystem
+- Experience working across development, staging and production-style environments using Terraform, Docker and GitHub Actions  
+- Focused on infrastructure automation, containerised deployments, monitoring and operational reliability  
+- Interested in **cloud-native infrastructure**, **DevSecOps practices**, and **scalable platform engineering** 
 
 ---
 
